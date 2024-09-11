@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist", // Pasta de saída para os arquivos compilados
+    "rootDir": "./src", // Pasta de origem onde estão os arquivos TypeScript
+    "target": "es6",    // Define a versão do JavaScript (ES6 ou superior)
+    "module": "commonjs",  // Tipo de módulo para o Node.js
+    "strict": true
+  }
+}
